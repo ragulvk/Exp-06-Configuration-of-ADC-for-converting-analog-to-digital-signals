@@ -1,8 +1,8 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name : Bairav Skandan Loha
-## Roll no: 212221230010
+## Name : RAGUL VK
+## Roll no: 212221240043
 ## Date of experiment : 06-11-22
   
   
